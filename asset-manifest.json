@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oderlive/reactConventer.git/static/css/main.6f222754.css",
+    "main.js": "/oderlive/reactConventer.git/static/js/main.197e7d46.js",
+    "index.html": "/oderlive/reactConventer.git/index.html",
+    "main.6f222754.css.map": "/oderlive/reactConventer.git/static/css/main.6f222754.css.map",
+    "main.197e7d46.js.map": "/oderlive/reactConventer.git/static/js/main.197e7d46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f222754.css",
+    "static/js/main.197e7d46.js"
+  ]
+}
